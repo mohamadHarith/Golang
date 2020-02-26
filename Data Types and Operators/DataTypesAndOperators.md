@@ -19,7 +19,7 @@ Interface
 
 ## Operators
 
-**Arithmetic**
+**Arithmetic**\
 addition +  
 subtraction -   
 multiplication *    
