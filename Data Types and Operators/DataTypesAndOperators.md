@@ -1,6 +1,6 @@
 ## Data Types
 
-**Numeric**
+**Numeric**/
 int
 float
 
