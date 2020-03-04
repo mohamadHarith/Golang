@@ -1,40 +1,40 @@
 ## Data Types
 
-**Numeric**
-int
+**Numeric**\
+int\
 float
 
-**Boolean**
-true 
+**Boolean**\
+true   
 false
 
 **String**
 
-**Derived**
-Pointer 
-Array
-Structure
-Map
+**Derived**\
+Pointer\
+Array\
+Structure\
+Map\
 Interface
 
 ## Operators
 
-**Arithmetic**
-addition + 
-subtraction - 
-multiplication *
-divison /
-modulus %
+**Arithmetic**\
+addition +  
+subtraction -   
+multiplication *    
+divison /  
+modulus %  
 
-**Relational**
-greater than >
-lesse than <>
-greater than or equalm >=
-lesser than or equal <=
-equivalence ==
-not equals !=
+**Relational**\
+greater than >  
+lesse than <>  
+greater than or equalm >=  
+lesser than or equal <=  
+equivalence ==  
+not equals !=  
 
-**Logical**
-and &&
-or ||
+**Logical**\
+and &&  
+or ||  
 negation !
